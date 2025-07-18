@@ -1,0 +1,192 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "username": "alex_woods",
+      "profilePicture": "https://randomuser.me/api/portraits/men/1.jpg",
+      "image": "https://source.unsplash.com/random/800x600?nature",
+      "caption": "Exploring the wild 🌿",
+      "likes": 230,
+      "comments": ["Amazing shot!", "Nature is healing 🌱"],
+      "timestamp": "2025-07-03T08:00:00Z"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "username": "emma_smith",
+      "profilePicture": "https://randomuser.me/api/portraits/women/2.jpg",
+      "image": "https://source.unsplash.com/random/800x600?food",
+      "caption": "Brunch goals 😋",
+      "likes": 520,
+      "comments": ["I’m hungry now!", "Where’s the recipe?"],
+      "timestamp": "2025-07-03T09:30:00Z"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "username": "liam_jones",
+      "profilePicture": "https://randomuser.me/api/portraits/men/3.jpg",
+      "image": "https://source.unsplash.com/random/800x600?tech",
+      "caption": "My new workspace 💻",
+      "likes": 340,
+      "comments": ["Clean setup 🔥", "I need this desk!"],
+      "timestamp": "2025-07-03T10:15:00Z"
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "username": "olivia_brown",
+      "profilePicture": "https://randomuser.me/api/portraits/women/4.jpg",
+      "image": "https://source.unsplash.com/random/800x600?fitness",
+      "caption": "No pain, no gain 💪",
+      "likes": 410,
+      "comments": ["You’re inspiring!", "Respect 🙌"],
+      "timestamp": "2025-07-03T11:00:00Z"
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "username": "noah_davis",
+      "profilePicture": "https://randomuser.me/api/portraits/men/5.jpg",
+      "image": "https://source.unsplash.com/random/800x600?gaming",
+      "caption": "Late night grind 🎮",
+      "likes": 280,
+      "comments": ["What game? 👀", "Add me!"],
+      "timestamp": "2025-07-03T11:45:00Z"
+    },
+    {
+      "id": 6,
+      "userId": 6,
+      "username": "ava_miller",
+      "profilePicture": "https://randomuser.me/api/portraits/women/6.jpg",
+      "image": "https://source.unsplash.com/random/800x600?art",
+      "caption": "Finished this painting today 🎨",
+      "likes": 670,
+      "comments": ["So beautiful 😍", "You’re talented!"],
+      "timestamp": "2025-07-03T12:20:00Z"
+    },
+    {
+      "id": 7,
+      "userId": 7,
+      "username": "william_moore",
+      "profilePicture": "https://randomuser.me/api/portraits/men/7.jpg",
+      "image": "https://source.unsplash.com/random/800x600?dog",
+      "caption": "Meet my new puppy 🐶",
+      "likes": 430,
+      "comments": ["Cutest thing ever 🥺", "What’s his name?"],
+      "timestamp": "2025-07-03T13:05:00Z"
+    },
+    {
+      "id": 8,
+      "userId": 8,
+      "username": "sophia_taylor",
+      "profilePicture": "https://randomuser.me/api/portraits/women/8.jpg",
+      "image": "https://source.unsplash.com/random/800x600?fashion",
+      "caption": "OOTD ✨",
+      "likes": 890,
+      "comments": ["Queen 👑", "Where’s the dress from?"],
+      "timestamp": "2025-07-03T13:50:00Z"
+    },
+    {
+      "id": 9,
+      "userId": 9,
+      "username": "james_anderson",
+      "profilePicture": "https://randomuser.me/api/portraits/men/9.jpg",
+      "image": "https://source.unsplash.com/random/800x600?music",
+      "caption": "Jamming sessions 🎸",
+      "likes": 370,
+      "comments": ["New album soon? 🎶", "Rock on 🤘"],
+      "timestamp": "2025-07-03T14:25:00Z"
+    },
+    {
+      "id": 10,
+      "userId": 10,
+      "username": "mia_thomas",
+      "profilePicture": "https://randomuser.me/api/portraits/women/10.jpg",
+      "image": "https://source.unsplash.com/random/800x600?writing",
+      "caption": "Writer’s block 😅",
+      "likes": 190,
+      "comments": ["Hang in there 💪", "Same 😭"],
+      "timestamp": "2025-07-03T15:10:00Z"
+    }
+    
+  
+  
+  
+  ],
+  "suggestions": [
+    {
+      "id": 1,
+      "username": "mia_harper",
+      "fullName": "Mia Harper",
+      "profilePicture": "https://randomuser.me/api/portraits/women/81.jpg",
+      "bio": "Photographer & traveler"
+    },
+    {
+      "id": 2,
+      "username": "ethan_ross",
+      "fullName": "Ethan Ross",
+      "profilePicture": "https://randomuser.me/api/portraits/men/82.jpg",
+      "bio": "Coffee enthusiast ☕"
+    },
+    {
+      "id": 3,
+      "username": "zoe_mitchell",
+      "fullName": "Zoe Mitchell",
+      "profilePicture": "https://randomuser.me/api/portraits/women/83.jpg",
+      "bio": "Lifestyle blogger ✨"
+    },
+    {
+      "id": 4,
+      "username": "lucas_bennett",
+      "fullName": "Lucas Bennett",
+      "profilePicture": "https://randomuser.me/api/portraits/men/84.jpg",
+      "bio": "Tech geek & gamer 🎮"
+    },
+    {
+      "id": 5,
+      "username": "emma_clark",
+      "fullName": "Emma Clark",
+      "profilePicture": "https://randomuser.me/api/portraits/women/85.jpg",
+      "bio": "Food lover 🍕🍔"
+    },
+    {
+      "id": 6,
+      "username": "noah_evans",
+      "fullName": "Noah Evans",
+      "profilePicture": "https://randomuser.me/api/portraits/men/86.jpg",
+      "bio": "Runner & fitness coach 🏃‍♂️"
+    },
+    {
+      "id": 7,
+      "username": "ava_reynolds",
+      "fullName": "Ava Reynolds",
+      "profilePicture": "https://randomuser.me/api/portraits/women/87.jpg",
+      "bio": "Artist 🎨"
+    },
+    {
+      "id": 8,
+      "username": "liam_patterson",
+      "fullName": "Liam Patterson",
+      "profilePicture": "https://randomuser.me/api/portraits/men/88.jpg",
+      "bio": "Entrepreneur 🚀"
+    },
+    {
+      "id": 9,
+      "username": "sophia_morgan",
+      "fullName": "Sophia Morgan",
+      "profilePicture": "https://randomuser.me/api/portraits/women/89.jpg",
+      "bio": "Bookworm 📚"
+    },
+    {
+      "id": 10,
+      "username": "jackson_white",
+      "fullName": "Jackson White",
+      "profilePicture": "https://randomuser.me/api/portraits/men/90.jpg",
+      "bio": "Musician 🎸"
+    }
+  ]
+  
+  
+}
