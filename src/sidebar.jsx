@@ -9,7 +9,7 @@ function Sidebar() {
         <img className="instalogo-text mb-4" src="/instgramtext.png" alt="Instagram Logo" />
 
 
-        <p className="sidebar-item"><i className="bi bi-house-door-fill me-3"></i> Home</p>
+        <p className="sidebar-item"><i className="bi bi-house-door-fill me-3"></i> come</p>
         <p className="sidebar-item"><i className="bi bi-search me-3"></i> Search</p>
         <p className="sidebar-item"><i className="bi bi-compass-fill me-3"></i> Explore</p>
         <p className="sidebar-item"><i className="bi bi-youtube me-3"></i> Reels</p>
